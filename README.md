@@ -2,7 +2,7 @@
 
 ## 1. Inference Video Menggunakan Model YOLO
 
-Buatlah program sederhana yang melakukan deteksi dan perhitungan objek terhadap video yang terdapat di dalam folder `video`, menggunakan model YOLO yang disimpan dalam folder `model`. Program harus memenuhi ketentuan sebagai berikut:
+Buatlah program sederhana untuk mendeteksi dan menghitung objek pada video yang terdapat di dalam folder `video`, menggunakan model YOLO yang disimpan dalam folder `model`. Program harus memenuhi ketentuan sebagai berikut:
 
 - Melakukan inference setiap 30 frame (1 frame per detik jika video 30 FPS).
 - Mengganti label hasil inference dengan klasifikasi kualitas buah sebagai berikut:  
